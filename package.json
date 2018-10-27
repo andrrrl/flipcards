@@ -1,11 +1,11 @@
 {
-  "name": "cards",
+  "name": "flipcards",
   "version": "0.0.0",
-  "description": "Card toggle game",
+  "description": "Flipping cards game",
   "main": "index.html",
   "scripts": {
-    "test": "php -S localhost:4000",
-    "start": "php -S localhost:4000"
+    "phpserve": "php -S localhost:4000",
+    "pythonserve": "python -m SimpleHTTPServer 4000",
   },
   "author": "Andrrrl",
   "license": "MIT"
