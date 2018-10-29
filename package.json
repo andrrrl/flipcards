@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "phpserve": "php -S localhost:4000",
-    "pythonserve": "python -m SimpleHTTPServer 4000",
+    "pythonserve": "python -m SimpleHTTPServer 4000"
   },
   "author": "Andrrrl",
   "license": "MIT"
